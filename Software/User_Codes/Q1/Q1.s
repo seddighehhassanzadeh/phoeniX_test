@@ -169,3 +169,4 @@ PrintLoop:
     addi a7, x0, 4        # a7 = 4 print_str
     ecall
     jr ra
+    ebreak
